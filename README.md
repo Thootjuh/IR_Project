@@ -1,0 +1,1 @@
+This is the notebook created for the IR project. Note that this repository does not contain the data, as the data files are to large. You can download the data from https://microsoft.github.io/msmarco/Datasets.html#passage-ranking-dataset
